@@ -1,7 +1,7 @@
 {
   "name": "npm-test-trimen",
   "version": "1.0.1",
-  "description": "my first npm demo",
+  "description": "my first npm demo。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
