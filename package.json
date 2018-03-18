@@ -1,6 +1,6 @@
 {
   "name": "npm-test-trimen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my first npm demo",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,14 @@
   "keywords": [
     "demo"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strongzs/npm-test-trimen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strongzs/npm-test-trimen/issues"
+  },
+  "homepage": "https://github.com/strongzs/npm-test-trimen#readme",
   "author": "trimen",
   "license": "ISC",
   "dependencies": {
