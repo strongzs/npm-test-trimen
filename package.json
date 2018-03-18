@@ -1,0 +1,17 @@
+{
+  "name": "npm-test-trimen",
+  "version": "1.0.0",
+  "description": "my first npm demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "trimen",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
